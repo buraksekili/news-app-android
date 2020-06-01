@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BurakSekiliHomework3</string>
+    <string-array name="categories">
+        <item>Sport</item>
+        <item>Politics</item>
+    </string-array>
+</resources>
